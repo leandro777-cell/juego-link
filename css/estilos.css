@@ -1,0 +1,172 @@
+body{
+
+background-color: brown;
+background-image: url(../imagenes/goku.jpg) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover;
+
+}
+
+.titulo {
+
+font-size: 45px;
+
+font-style: italic;
+
+}
+
+
+.link {
+
+font-size: 50px;
+font-style: italic;
+
+}
+
+
+
+
+
+
+
+
+
+.sap{
+
+height: 20vh;
+width: 15vw;
+
+}
+
+
+
+
+
+
+
+.sap2{
+
+    height: 30vh;
+    width: 25vw;
+    
+    }
+
+    
+
+
+
+
+.tuki{
+
+height: 20vh;
+
+width: 15vw;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+header{display: flex;
+
+    justify-content: space-around;
+    
+
+    
+    align-items:flex-start;
+    
+    flex-wrap: wrap;
+    
+    background-color: green;
+}    
+
+
+
+
+
+section {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+height: 40vh;
+
+
+
+
+
+}
+
+
+
+footer {
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:link { 
+
+    color: blue;
+    
+    
+    
+    }
+    
+    a:visited {
+    
+    color:green;
+    
+    }
+    
+    
+    a:hover {
+    
+    color:black;
+    
+    text-decoration:wavy;
+    
+ 
+    
+    }
+    
+    a:active {
+    
+    color: white;
+    
+    }
+
+    
